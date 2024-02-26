@@ -1,3 +1,4 @@
 # vueToy
 
-study base of mvvm
+this is a mvvm example
+
