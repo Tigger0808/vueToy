@@ -1,4 +1,4 @@
 # vueToy
 
-this is a mvvm example
+this is a mvvm example template
 
